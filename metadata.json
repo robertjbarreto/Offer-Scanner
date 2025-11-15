@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Offer Scanner",
+  "description": "A mobile-first web application that uses your camera to scan offers for jobs, services, or products, extracts the information using AI, and organizes them into a clean, easy-to-read feed.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
